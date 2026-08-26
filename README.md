@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="images/logo.png" width="130" alt="EyeVQA Logo">
+<img src="images/logo.jpg" width="130" alt="EyeVQA Logo">
 
 # EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding
 
