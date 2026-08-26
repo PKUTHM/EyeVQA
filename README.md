@@ -8,12 +8,7 @@ Gujie Shao<sup>*1</sup>, Zixun Xie<sup>*2</sup>, Xuechun Xing<sup>*1</sup>, Ruix
 Yanlin Qi<sup>3</sup>, Gangyi Zhang<sup>1</sup>, Yuxin Yang<sup>1</sup>, Dawei Li<sup>†2</sup>, Haiming Tang<sup>†1,4</sup>
 
 <br>
-
-<sup>1</sup>National University of Singapore &nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>Peking University  
-<sup>3</sup>Université Paris Cité &nbsp;&nbsp;&nbsp;&nbsp; <sup>4</sup>Hong Kong Institute of Science and Innovation, CAS  
-
 (<sup>*</sup>Equal contribution, <sup>†</sup>Corresponding authors)
-
 </div>
 
 
