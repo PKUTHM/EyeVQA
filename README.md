@@ -1,10 +1,9 @@
 <div align="center">
 
 
-<h1>
-  <img src="images/logo.jpg" height="38" align="center" style="vertical-align: middle;">
-  EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding
-</h1>
+<img src="images/logo.png" width="130" alt="EyeVQA Logo">
+
+# EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
