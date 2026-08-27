@@ -7,8 +7,8 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Gujie Shao<sup>*1</sup>, Zixun Xie<sup>*2</sup>, Xuechun Xing<sup>*1</sup>, Ruixiang Wang<sup>*1</sup>, Ziyun Lan<sup>1</sup>,  
-Yanlin Qi<sup>3</sup>, Gangyi Zhang<sup>1</sup>, Yuxin Yang<sup>1</sup>, Dawei Li<sup>†2</sup>, Haiming Tang<sup>†1,4</sup>
+Gujie Shao<sup>*</sup>, Zixun Xie<sup>*</sup>, Xuechun Xing<sup>*</sup>, Ruixiang Wang<sup>*</sup>, Ziyun Lan,  
+Yanlin Qi, Gangyi Zhang, Yuxin Yang, Dawei Li<sup>†</sup>, Haiming Tang<sup>†</sup>
 
 <br>
 (<sup>*</sup>Equal contribution, <sup>†</sup>Corresponding authors)
