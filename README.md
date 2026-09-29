@@ -4,8 +4,7 @@
 <img src="images/logo.jpg" width="130" alt="EyeVQA Logo">
 
 # EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding
-
-[![arXiv](https://img.shields.io/badge/arXiv-2609.32352-b31b1b.svg)](https://arxiv.org/abs/2609.32352) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.32352-b31b1b.svg)](https://arxiv.org/abs/2609.32352) [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/tanghaiming/EyeVQA) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Gujie Shao<sup>\*</sup>, Zixun Xie<sup>\*</sup>, Xuechun Xing<sup>\*</sup>, Ruixiang Wang<sup>\*</sup>, Ziyun Lan,  
 Yanlin Qi, Gangyi Zhang, Yuxin Yang, Dawei Li<sup>†</sup>, Haiming Tang<sup>†</sup>
